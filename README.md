@@ -12,11 +12,9 @@ more logstash configuration
 
 ### Daemon
 
-``
 
+```
 nohup ./logstash  agent logstash-app.conf  > /dev/null 2>&1 &
-
-
-``
+```
 
 
